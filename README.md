@@ -13,3 +13,4 @@ sudo systemctl start nginx
 sudo systemctl enable nginx 
 
 #i change somwthing here  
+#this is to learn git pull
